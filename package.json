@@ -1,0 +1,29 @@
+{
+  "name": "authify",
+  "version": "1.0.0",
+  "description": "A seamless and customizable authentication package offering pre-built sign-in and sign-up pages with complete auth functionality. Designed for developers to easily integrate user authentication, token management, and route protection into their projects. Ideal for building secure and user-friendly applications with minimal effort.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unveiled-labs/authify.git"
+  },
+  "keywords": [
+    "authentication",
+    "login",
+    "auth-ui"
+  ],
+  "author": "Unveiled Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unveiled-labs/authify/issues"
+  },
+  "homepage": "https://github.com/unveiled-labs/authify#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "typescript": "^5.7.2"
+  }
+}
